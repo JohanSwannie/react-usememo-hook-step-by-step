@@ -43,7 +43,7 @@ function App() {
         Change the Theme
       </button>
       <h3 style={themeStyle}>{calcNumber}</h3>
-      <h3>Theme has been changed {themeChangeCounter} timess</h3>
+      <h3>Theme has been changed {themeChangeCounter} times</h3>
     </div>
   );
 }
